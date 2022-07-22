@@ -1,0 +1,27 @@
+.Profile {
+    width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(https://media.gettyimages.com/photos/an-australian-open-branded-tennis-ball-is-seen-on-court-ahead-of-the-picture-id461304694?s=612x612);
+    background-size: 104% ;
+    background-repeat: no-repeat;
+    background-color: rgb(23, 127, 172);
+    -webkit-border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .counter {
+    background-color: rgb(23, 172, 23);
+    border: solid black 4px;
+    border-radius: 15px;
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-left: 500px; */
+    /* margin-right: 500px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+  }
